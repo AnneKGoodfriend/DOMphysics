@@ -24,6 +24,7 @@ html, body {
 }
 
 .choiceButtons {
+    width:100px;
     background-color: #FFAD08; /* Green */
     border: none;
     color: white;
